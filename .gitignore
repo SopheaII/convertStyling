@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Dependency directory
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build output
+/dist
+/build
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+
+# Coverage directory (for code coverage tools)
+coverage/
+
+# Package lock files (optional, if you don't want them to be tracked)
+package-lock.json
+yarn.lock
